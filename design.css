@@ -1,0 +1,129 @@
+/*--------  https://equalizer-landing-page-six.vercel.app/   ---------*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://equalizer-landing-page-six.vercel.app/starter-code/assets/bg-main-mobile.png);
+}
+.part1{
+    display: flex;
+}
+
+.logo{
+    margin: 20px;
+    font-size: 50px;
+    padding-bottom: 40px;
+    margin-left: 100px;
+}
+
+.title{
+    margin-left: 100px;
+    font-size: 50px;
+    padding-bottom: 80px;
+}
+
+.parag{
+    margin-left: 100px;
+    font-style:italic;
+    letter-spacing: 3px;
+    font-weight: 700;
+    padding-bottom: 300px;
+}
+
+
+/*--------------------------part 2------------------*/
+
+.carre-black{
+    background-color: black;
+    height: 90vh;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.carre-black img{
+    
+    margin: 0 auto;
+}
+
+
+.img-phone{
+    height: 96vh;
+    width: 320px;
+    margin-top: -200px !important;
+    position: relative;
+    padding-left: 200px;
+}
+
+.img-zalij{
+    position: absolute;
+    padding-left: 400px;
+}
+
+.caree-orange{
+    background-color: rgb(247, 71, 48);
+    color: white;
+    height: 90vh;
+    width: 400px;
+    position: absolute;
+    margin-top: -500px;
+    margin-right: 150px;
+    border-radius: 8px;
+    left: 51%;
+    
+
+}
+
+.contenu-carre-orange, .btn1{
+    margin: 40px;
+}
+
+.btn-part2{
+    display: block;
+}
+
+.price{
+    font-size: 50px;
+}
+
+.btn1{
+    background-color: rgb(12, 12, 12);
+    height: 40px;
+    border-radius: 12px;
+    width: 150px;
+    color: white;
+    margin-left: 40px;
+}
+
+.btn2{
+    background-color: rgb(243, 240, 240);
+    height: 40px;
+    border-radius: 12px;
+    width: 150px;
+    color: rgb(14, 13, 13);
+    border: none;
+    margin-left: 40px;
+}
+
+.footer{
+    padding-top: 180px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+
+.part-middl{
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
